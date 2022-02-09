@@ -1,0 +1,31 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+}
+ .qr{
+width: 20em;
+margin-left: 25px;
+margin-top: 20px;
+border-radius: 30px;
+ }
+.cointainer{
+  width: 23em;
+  height: 35em;
+  margin-top: 10em;
+background-color:  hsl(0, 0%, 100%);
+position: relative;
+left: 40%;
+border-radius: 20px;
+}
+h1{
+  font-family:'Outfit';
+  font-size: 30px;
+  padding-left: 20px;
+  color:  hsl(218, 44%, 22%);
+
+}
+
+p{
+    font-family:'Outfit';
+    color: hsl(220, 15%, 55%);
+    margin: 30px ;
+}
